@@ -1,5 +1,5 @@
 # Interpreter
-A language interpreter made in C++ that reads a text file of a primitive fake programming language and translates it into C++ code that executes what the primitive language is meant to.
+A language interpreter made in C++ that reads a text file of a primitive fake programming language and translates it into C++ code that executes what the primitive language is meant to. The following screenshots show samples of the primitive fake language (called HUNLAN) in text files and the output given after running those files through the C++ interpreter: 
 
 ![Screenshot 2023-03-05 10 47 00 PM](https://user-images.githubusercontent.com/78827798/223016067-224f850e-71e9-48c5-94ab-7808ff16923e.png)
 
