@@ -1,0 +1,45 @@
+STRING message #Creates a string 
+
+#This is the test file
+
+# Hope it runs tbh
+
+message = "Hello my best friend\n"
+
+NUMBER num  # creates num 
+NUMBER num2  # creates new num
+NUMBER num3 # new num 3 
+ 
+num = 4
+num2 = 3
+
+STRING new_message
+new_message = "How are you?"
+
+num3 = 2
+
+num = num * num3 #math expression
+
+PRINT message
+PRINT new_message
+PRINT "The solved number is: "
+PRINT num
+
+STRING message2
+message2 = "This is another test of the HUNLAN Interpreter"
+NUMBER new_num 
+NUMBER new_num2
+NUMBER new_num3
+
+new_num = 2
+new_num2 = 3
+new_num3 = 4
+
+new_num = new_num * new_num2 
+new_num3 = new_num * new_num3
+
+PRINT message2
+PRINT "The product of 2 times 3 is: "
+PRINT new_num
+PRINT "The product of 6 times 4 is: "
+PRINT new_num3
